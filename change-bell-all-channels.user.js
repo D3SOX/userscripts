@@ -9,6 +9,8 @@
 // @match        *://www.youtube.com/feed/channels*
 // @grant        GM_registerMenuCommand
 // @icon         https://icons.duckduckgo.com/ip3/youtube.com.ico
+// @homepageURL  https://github.com/D3SOX/userscripts
+// @supportURL   https://github.com/D3SOX/userscripts/issues
 // @updateURL    https://rawcdn.githack.com/D3SOX/userscripts/refs/heads/master/change-bell-all-channels.user.js
 // @downloadURL  https://rawcdn.githack.com/D3SOX/userscripts/refs/heads/master/change-bell-all-channels.user.js
 // ==/UserScript==
