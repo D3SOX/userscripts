@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Change bell on all channels
 // @namespace    Violentmonkey Scripts
-// @version      1.0
+// @version      1.1
 // @description  Batch disable or set to personalized notifications for all subscribed channels on YouTube
 // @author       D3SOX
 // @license      GPL-3.0
