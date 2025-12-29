@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Batch disable or set to personalized notifications for all subscribed channels on YouTube
 // @author       D3SOX
+// @license      GPL-3.0
 // @match        *://youtube.com/feed/channels*
 // @match        *://www.youtube.com/feed/channels*
 // @grant        GM_registerMenuCommand
