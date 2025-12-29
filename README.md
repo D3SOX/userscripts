@@ -7,7 +7,7 @@ This repository hosts various userscripts that I needed for very specific use-ca
 You need a userscript manager of choice for your browser (I recommend [Violentmonkey](https://violentmonkey.github.io/get-it/) or if you're using Safari [Userscripts App](https://apps.apple.com/app/userscripts/id1463298887))
 
 > [!TIP]
-> If you're using Google Chrome and can't install Violentmonkey, consider switching to [Helium](https://helium.computer/) or another Chromium-based browser that still supports Manifest V2. As a last resort [Brave](https://brave.com/) also works but I recommend disabling its built-in crypto, ads, and tracking features during setup.
+> If you're using Google Chrome and can't install Violentmonkey, consider switching to [Helium](https://helium.computer/) or another Chromium-based browser that still supports Manifest V2. As a last resort [Brave](https://brave.com/) also works but I recommend disabling its built-in crypto, ads, and tracking features during setup. [See this video guide for it](https://www.youtube.com/watch?v=W6cKFliWW6Q)
 
 > [!TIP]
 > If you are on Android: [Cromite](https://github.com/uazo/cromite) has native userscripts and even experimental addons support.
