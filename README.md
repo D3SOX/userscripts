@@ -2,10 +2,15 @@
 
 This repository hosts various userscripts that I needed for very specific use-cases and I couldn't find an existing script for.
 
-## Requirements
+## How-to
 
-- A userscript manager of choice for your browser (I recommend [Violentmonkey](https://violentmonkey.github.io/get-it/) or if you're using Safari [Userscripts App](https://apps.apple.com/app/userscripts/id1463298887))
-- Install the script you want
+You need a userscript manager of choice for your browser (I recommend [Violentmonkey](https://violentmonkey.github.io/get-it/) or if you're using Safari [Userscripts App](https://apps.apple.com/app/userscripts/id1463298887))
+
+> [!TIP]
+> If you are on Android: [Cromite](https://github.com/uazo/cromite) has native userscripts and even experimental addons support.
+> I haven't tested it but it should work if you set it to use the desktop site there too
+
+Then you can just press on the Install link for the script you want
 
 ## Change Bell on All Channels
 
