@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         GitHub notifications early-click fix
 // @namespace    Violentmonkey Scripts
-// @version      1.0.0
+// @version      1.0.1
 // @description  Prevent notification actions from opening GitHub's internal beta endpoints before the page is ready
 // @author       D3SOX
 // @license      GPL-3.0
 // @match        https://github.com/notifications*
 // @run-at       document-start
+// @inject-into  content
 // @grant        none
 // @icon         https://icons.duckduckgo.com/ip3/github.com.ico
 // @homepageURL  https://github.com/D3SOX/userscripts
