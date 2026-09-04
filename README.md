@@ -15,6 +15,14 @@ You need a userscript manager of choice for your browser (I recommend [Violentmo
 
 Then you can just press on the Install link for the script you want
 
+## GitHub Notifications Early-click Fix
+
+Prevents notification actions from opening GitHub's internal `/notifications/beta/*` endpoints when clicked before the page's JavaScript is ready.
+
+[Install](https://rawcdn.githack.com/D3SOX/userscripts/refs/heads/master/github-notifications-early-click-fix.user.js)
+
+The script ignores premature notification action clicks and redirects back to the notifications page if the broken navigation still occurs. Normal notification controls work as soon as the page is ready.
+
 ## Change Bell on All Channels
 
 A userscript for YouTube that batch changes notification settings for all subscribed channels.
